@@ -1,0 +1,2 @@
+updated substudy/src/video.rs
+with 800 by 500
